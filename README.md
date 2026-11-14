@@ -1,4 +1,4 @@
-<img width="940" height="476" alt="Screenshot 2026-11-14 221348" src="https://github.com/user-attachments/assets/986f1998-71c8-4785-a661-29d72cf85d7f" /><img width="912" height="449" alt="Screenshot 2026-11-14 221409" src="https://github.com/user-attachments/assets/62c11947-e0cd-4211-9f30-aaac3b66b17d" /># Rock-Paper-Scissors
+# Rock-Paper-Scissors Game
 
 A simple **Rock-Paper-Scissors game** built with Python.  
 The player competes against the computer, which randomly chooses Rock, Paper, or Scissors.
